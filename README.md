@@ -1,10 +1,10 @@
 # Erik Portillo
 
-**Product @ GitHub Copilot** 🤖
-*Solving real-world problems through the use of AI.*
+**AI Builder** 🤖
+*Solving real-world problems through the use of agentic coding tools.*
 
-* **Current:** Building the future of coding with AI at GitHub.
-* **Previous:** Engineering & Product at Petal, AWS, and TuSimple.
+* **Current:** Entrepreneur. Tinkering with different business ideas.
+* **Previous:** Product at GitHub, Engineering & Product at Petal, AWS, and TuSimple.
 * **Alma Maters:** Princeton (CS) and Yale (MBA).
 * **Tech Stack:** Python, TypeScript, React.
 
