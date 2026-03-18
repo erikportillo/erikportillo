@@ -1,13 +1,12 @@
 # Erik Portillo
 
-**AI Builder** 🤖
-*Solving real-world problems through the use of agentic coding tools.*
+**AI Builder** 🤖 *Solving real-world problems through applied AI and agentic workflows.*
 
-* **Current:** Entrepreneur. Tinkering with different business ideas.
-* **Previous:** Product at GitHub, Engineering & Product at Petal, AWS, and TuSimple.
+* **Current:** Building an AI startup in stealth & Creator/Maintainer of [axlsdk](https://github.com/axl-sdk/axl) (a TypeScript agentic orchestration framework).
+* **Previous:** Technical Product Manager at GitHub (Copilot). Engineering & Product at Petal, AWS, and TuSimple.
 * **Alma Maters:** Princeton (CS) and Yale (MBA).
-* **Tech Stack:** Python, TypeScript, React.
+* **Tech Stack:** TypeScript, Python, React.
 
 📍 *New York, NY*
 
-[LinkedIn](https://www.linkedin.com/in/erikportillo/)
+[LinkedIn](https://www.linkedin.com/in/erikportillo/) | [axlsdk repo](https://github.com/axl-sdk/axl)
